@@ -25,7 +25,7 @@ A simple web application that counts the number of characters you type into a te
 
 3. Start typing into the text box to see the live character count.
 
-📁 Project Structure
+## 📁 Project Structure
 
 Character-Count/
 ├── index.html        # Main HTML file
