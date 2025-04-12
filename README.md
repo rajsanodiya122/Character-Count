@@ -25,14 +25,6 @@ A simple web application that counts the number of characters you type into a te
 
 3. Start typing into the text box to see the live character count.
 
-## 📁 Project Structure
-
-Character-Count/
-├── index.html        # Main HTML file
-├── style.css         # Styling for the app
-├── script.js         # Character counting logic
-└── README.md         # Project description
-
 
 📌 Use Cases
 
