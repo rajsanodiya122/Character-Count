@@ -1,0 +1,22 @@
+# Character Count
+
+A simple web application that counts the number of characters you type into a text area. Great for writing tweets, social media posts, or monitoring input limits.
+
+## 🔍 Features
+
+- Real-time character counting
+- Clean and responsive UI
+- JavaScript-powered dynamic updates
+
+## 🚀 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+
+## 🛠 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rajsanodiya122/Character-Count.git
